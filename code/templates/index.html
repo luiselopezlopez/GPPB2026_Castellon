@@ -1,0 +1,243 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Peticiones al Secretario de Organización</title>
+  <style>
+    :root {
+      --bg: #0b1020;
+      --panel: #131a2e;
+      --text: #e9edf9;
+      --muted: #a5b0d6;
+      --accent: #63a4ff;
+      --accent-2: #7be7d1;
+      --danger: #ff7f96;
+      --ok: #86efac;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      background: radial-gradient(circle at top, #151e3f, var(--bg) 40%);
+      color: var(--text);
+      font-family: Segoe UI, Roboto, Arial, sans-serif;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+
+    .layout {
+      width: min(1300px, 100%);
+      display: grid;
+      grid-template-columns: 240px minmax(0, 900px);
+      gap: 24px;
+      align-items: end;
+    }
+
+    .mascot {
+      display: flex;
+      justify-content: center;
+      align-items: flex-end;
+      min-height: 360px;
+    }
+
+    .mascot img {
+      width: 100%;
+      max-width: 230px;
+      height: auto;
+      filter: drop-shadow(0 12px 20px rgba(0, 0, 0, .35));
+      user-select: none;
+      -webkit-user-drag: none;
+    }
+
+    .app {
+      width: min(900px, 100%);
+      background: color-mix(in srgb, var(--panel), #000 10%);
+      border: 1px solid #2c365c;
+      border-radius: 16px;
+      box-shadow: 0 20px 50px rgba(0, 0, 0, .35);
+      overflow: hidden;
+    }
+
+    .head {
+      padding: 18px 22px;
+      border-bottom: 1px solid #2c365c;
+      background: linear-gradient(90deg, rgba(99, 164, 255, .12), rgba(123, 231, 209, .1));
+    }
+
+    .head h1 {
+      margin: 0 0 4px;
+      font-size: 1.18rem;
+      font-weight: 650;
+    }
+
+    .head p {
+      margin: 0;
+      color: var(--muted);
+      font-size: .94rem;
+    }
+
+    .body {
+      padding: 20px;
+      display: grid;
+      gap: 12px;
+    }
+
+    label {
+      font-size: .88rem;
+      color: var(--muted);
+      margin-bottom: 4px;
+      display: inline-block;
+    }
+
+    textarea, button {
+      width: 100%;
+      border-radius: 12px;
+      border: 1px solid #394570;
+      background: #0d1330;
+      color: var(--text);
+      padding: 12px;
+      font-size: .95rem;
+    }
+
+    textarea {
+      min-height: 96px;
+      resize: vertical;
+      font-family: inherit;
+    }
+
+    .conversation {
+      background: #0a1028;
+      border: 1px solid #293360;
+      border-radius: 12px;
+      padding: 14px;
+      min-height: 260px;
+      max-height: 420px;
+      overflow-y: auto;
+      display: grid;
+      gap: 10px;
+      align-content: start;
+    }
+
+    .msg {
+      border: 1px solid #2f3a66;
+      border-radius: 10px;
+      padding: 10px 12px;
+      white-space: pre-wrap;
+      line-height: 1.45;
+    }
+
+    .msg.user {
+      background: #17254d;
+      border-color: #3f62bd;
+    }
+
+    .msg.agent {
+      background: #13233a;
+      border-color: #356486;
+    }
+
+    .actions {
+      display: flex;
+      gap: 10px;
+      justify-content: flex-end;
+    }
+
+    button {
+      cursor: pointer;
+      transition: transform .05s ease, filter .2s ease;
+    }
+
+    button:active {
+      transform: translateY(1px);
+    }
+
+    .primary {
+      background: linear-gradient(90deg, #4f8cf8, #58d4be);
+      color: #061122;
+      border: none;
+      font-weight: 700;
+    }
+
+    .secondary {
+      background: #161f44;
+      color: var(--text);
+    }
+
+    .status {
+      min-height: 20px;
+      font-size: .9rem;
+      color: var(--muted);
+    }
+
+    .status.error { color: var(--danger); }
+    .status.ok { color: var(--ok); }
+
+    .empty {
+      color: var(--muted);
+      font-style: italic;
+    }
+
+    @media (max-width: 720px) {
+      .layout {
+        grid-template-columns: 1fr;
+      }
+
+      .mascot {
+        order: 2;
+        min-height: 0;
+      }
+
+      .mascot img {
+        max-width: 180px;
+      }
+
+      .actions { justify-content: stretch; }
+    }
+  </style>
+</head>
+<body>
+  <div class="layout">
+    <aside class="mascot" aria-hidden="true">
+      <img src="/static/alcalde.png" alt="">
+    </aside>
+
+    <main class="app">
+      <header class="head">
+        <h1>Canal de peticiones · Consejo de las Orejas Redondas" 🐹
+            <p>Comite de asuntos capibariles</p>
+
+        </h1>
+
+      </header>
+
+      <section class="body">
+        <div>
+          <label>Conversación</label>
+          <div id="conversacion" class="conversation" aria-live="polite">
+            <div id="emptyConversation" class="empty">Aún no hay mensajes.</div>
+          </div>
+        </div>
+
+        <div>
+          <label for="mensaje">Petición</label>
+          <textarea id="mensaje" placeholder="Escribe aquí la petición para el Secretario de Organización capibaril 🐹..."></textarea>
+        </div>
+
+        <div class="actions">
+          <button id="resetBtn" class="secondary" type="button">Reiniciar conversación</button>
+          <button id="sendBtn" class="primary" type="button">Enviar petición</button>
+        </div>
+
+        <div id="status" class="status" aria-live="polite"></div>
+      </section>
+    </main>
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>
