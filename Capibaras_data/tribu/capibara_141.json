@@ -1,0 +1,24 @@
+{
+  "id": "e8babcb7-2a4b-4e07-9eec-1b16244b278c",
+  "capibaraid": "e8babcb7-2a4b-4e07-9eec-1b16244b278c",
+  "nombre": "Iker del Claro del Manantial",
+  "habilidades": [
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 4
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 5
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 1
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 1
+    }
+  ],
+  "disponibilidad": true
+}

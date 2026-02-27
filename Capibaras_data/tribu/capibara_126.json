@@ -1,0 +1,32 @@
+{
+  "id": "24588121-99f6-44a8-b24e-310a63fc09b6",
+  "capibaraid": "24588121-99f6-44a8-b24e-310a63fc09b6",
+  "nombre": "Luna del Monte de los Olmos",
+  "habilidades": [
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 2
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 3
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 4
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 1
+    }
+  ],
+  "disponibilidad": false
+}

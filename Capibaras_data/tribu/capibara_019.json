@@ -1,0 +1,24 @@
+{
+  "id": "3a896cb6-9ae3-46fe-89a7-f47266ca84e2",
+  "capibaraid": "3a896cb6-9ae3-46fe-89a7-f47266ca84e2",
+  "nombre": "Samuel del Lago Azul del Alba",
+  "habilidades": [
+    {
+      "nombre": "Música y animación",
+      "nivel": 2
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 1
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 3
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "c793a148-cfac-49bb-a1e4-651ffe110bd1",
+  "capibaraid": "c793a148-cfac-49bb-a1e4-651ffe110bd1",
+  "nombre": "Javier del Manantial de los Acantilados",
+  "habilidades": [
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 5
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 5
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 3
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": true
+}

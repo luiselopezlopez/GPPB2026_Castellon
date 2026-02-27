@@ -1,0 +1,28 @@
+{
+  "id": "41c8beb1-7243-47a7-b684-0acf1a795daa",
+  "capibaraid": "41c8beb1-7243-47a7-b684-0acf1a795daa",
+  "nombre": "Olivia de la Costa de los Nogales",
+  "habilidades": [
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 1
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 3
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 3
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 3
+    }
+  ],
+  "disponibilidad": false
+}

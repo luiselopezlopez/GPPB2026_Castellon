@@ -1,0 +1,36 @@
+{
+  "id": "1302dd65-f6ee-4b98-b528-7bdcbee50c86",
+  "capibaraid": "1302dd65-f6ee-4b98-b528-7bdcbee50c86",
+  "nombre": "Pedro del Horizonte del Almendral",
+  "habilidades": [
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 4
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 4
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 5
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 2
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": false
+}

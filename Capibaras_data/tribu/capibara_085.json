@@ -1,0 +1,24 @@
+{
+  "id": "290dbb4f-fc63-4659-9fb9-5e9891d3c23c",
+  "capibaraid": "290dbb4f-fc63-4659-9fb9-5e9891d3c23c",
+  "nombre": "Lucía de los Pinos de la Niebla",
+  "habilidades": [
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 2
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 5
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 2
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 1
+    }
+  ],
+  "disponibilidad": false
+}

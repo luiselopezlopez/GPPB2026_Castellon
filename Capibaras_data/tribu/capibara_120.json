@@ -1,0 +1,28 @@
+{
+  "id": "dfb30180-200b-4ecc-ab70-672e90852c71",
+  "capibaraid": "dfb30180-200b-4ecc-ab70-672e90852c71",
+  "nombre": "Rocío de la Costa del Claro",
+  "habilidades": [
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 3
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 3
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 1
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 5
+    }
+  ],
+  "disponibilidad": true
+}

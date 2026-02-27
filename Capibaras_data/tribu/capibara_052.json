@@ -1,0 +1,28 @@
+{
+  "id": "39888f8c-689e-4614-9fcb-05e3f9489d70",
+  "capibaraid": "39888f8c-689e-4614-9fcb-05e3f9489d70",
+  "nombre": "Jimena de la Ribera de los Olmos",
+  "habilidades": [
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 5
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 3
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 4
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 3
+    }
+  ],
+  "disponibilidad": true
+}

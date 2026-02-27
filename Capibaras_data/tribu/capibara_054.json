@@ -1,0 +1,28 @@
+{
+  "id": "dfce8e0e-129e-4030-a0ff-62ca39e09a0e",
+  "capibaraid": "dfce8e0e-129e-4030-a0ff-62ca39e09a0e",
+  "nombre": "Ángel de la Arboleda de la Sierra",
+  "habilidades": [
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 3
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 3
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 3
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": false
+}

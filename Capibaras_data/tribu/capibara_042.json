@@ -1,0 +1,24 @@
+{
+  "id": "512a2fe9-9bad-4fa5-9319-a37a4f4f0666",
+  "capibaraid": "512a2fe9-9bad-4fa5-9319-a37a4f4f0666",
+  "nombre": "Rubén de los Sauces de la Cumbre",
+  "habilidades": [
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 3
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 4
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 1
+    }
+  ],
+  "disponibilidad": true
+}

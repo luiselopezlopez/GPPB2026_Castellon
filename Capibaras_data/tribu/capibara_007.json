@@ -1,0 +1,24 @@
+{
+  "id": "e35c16d7-01af-440a-864e-af4dae5607db",
+  "capibaraid": "e35c16d7-01af-440a-864e-af4dae5607db",
+  "nombre": "Eva del Arroyo de la Isla Verde",
+  "habilidades": [
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 3
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 2
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 1
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": false
+}

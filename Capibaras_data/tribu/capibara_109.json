@@ -1,0 +1,24 @@
+{
+  "id": "500d55fd-41e0-451a-be32-31a03c229dfb",
+  "capibaraid": "500d55fd-41e0-451a-be32-31a03c229dfb",
+  "nombre": "Gonzalo del Estanque de la Isla Verde",
+  "habilidades": [
+    {
+      "nombre": "Carpintería",
+      "nivel": 4
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 5
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 5
+    }
+  ],
+  "disponibilidad": true
+}

@@ -1,0 +1,32 @@
+{
+  "id": "fac78bd3-5ccf-4b34-bd73-450881659c43",
+  "capibaraid": "fac78bd3-5ccf-4b34-bd73-450881659c43",
+  "nombre": "Inés de los Viñedos del Ocaso",
+  "habilidades": [
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 3
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 3
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 3
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 2
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": true
+}

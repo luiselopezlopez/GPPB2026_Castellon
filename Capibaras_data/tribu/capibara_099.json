@@ -1,0 +1,32 @@
+{
+  "id": "41e81f89-ee80-4a8d-9fce-c2a952253e67",
+  "capibaraid": "41e81f89-ee80-4a8d-9fce-c2a952253e67",
+  "nombre": "Adrián de los Juncos de los Cedros",
+  "habilidades": [
+    {
+      "nombre": "Carpintería",
+      "nivel": 4
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 1
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 4
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 4
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 5
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": false
+}

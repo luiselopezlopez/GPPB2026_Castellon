@@ -1,0 +1,28 @@
+{
+  "id": "b2068f2e-4234-4a05-b559-91882e51adc1",
+  "capibaraid": "b2068f2e-4234-4a05-b559-91882e51adc1",
+  "nombre": "Lucía de la Bahía del Arroyo",
+  "habilidades": [
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 4
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 1
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 4
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": false
+}

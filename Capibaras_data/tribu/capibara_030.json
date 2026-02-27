@@ -1,0 +1,28 @@
+{
+  "id": "09e1655d-bd2a-482d-9c3d-adf5ff207b2d",
+  "capibaraid": "09e1655d-bd2a-482d-9c3d-adf5ff207b2d",
+  "nombre": "Tadeo de los Sauces del Espliego",
+  "habilidades": [
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 4
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 1
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 2
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 5
+    }
+  ],
+  "disponibilidad": false
+}

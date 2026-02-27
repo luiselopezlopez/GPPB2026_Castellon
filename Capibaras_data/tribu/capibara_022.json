@@ -1,0 +1,36 @@
+{
+  "id": "38dfd27a-f4df-46e2-82b1-7122112b2fb1",
+  "capibaraid": "38dfd27a-f4df-46e2-82b1-7122112b2fb1",
+  "nombre": "Dafne de la Vega de la Laguna",
+  "habilidades": [
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 4
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 4
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 5
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 3
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 4
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": true
+}

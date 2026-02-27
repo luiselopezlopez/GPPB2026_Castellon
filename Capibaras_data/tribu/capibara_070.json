@@ -1,0 +1,36 @@
+{
+  "id": "b7c4eca0-12ae-462f-872a-31bbc9718d82",
+  "capibaraid": "b7c4eca0-12ae-462f-872a-31bbc9718d82",
+  "nombre": "Gonzalo de los Viñedos del Arroyo",
+  "habilidades": [
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 5
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 3
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 3
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 1
+    },
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 5
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 2
+    }
+  ],
+  "disponibilidad": true
+}

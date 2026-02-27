@@ -1,0 +1,36 @@
+{
+  "id": "e87c8e96-8232-44d5-a8f9-d5d50fd62173",
+  "capibaraid": "e87c8e96-8232-44d5-a8f9-d5d50fd62173",
+  "nombre": "Iker del Sendero de las Dunas",
+  "habilidades": [
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 3
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 1
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 1
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 5
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 3
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 2
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 3
+    }
+  ],
+  "disponibilidad": true
+}

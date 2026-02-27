@@ -1,0 +1,32 @@
+{
+  "id": "cd4577a3-4349-420f-b97b-8a143a0b4f10",
+  "capibaraid": "cd4577a3-4349-420f-b97b-8a143a0b4f10",
+  "nombre": "Javier del Monte de la Arboleda",
+  "habilidades": [
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 2
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 4
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 2
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 2
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 2
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 3
+    }
+  ],
+  "disponibilidad": true
+}

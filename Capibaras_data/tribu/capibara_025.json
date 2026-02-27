@@ -1,0 +1,40 @@
+{
+  "id": "f2e1ce05-cf07-411e-8615-1aefa02cdafd",
+  "capibaraid": "f2e1ce05-cf07-411e-8615-1aefa02cdafd",
+  "nombre": "Andrés de la Dehesa del Manantial",
+  "habilidades": [
+    {
+      "nombre": "Música y animación",
+      "nivel": 1
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 4
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 2
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 4
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 1
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 4
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 2
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 1
+    }
+  ],
+  "disponibilidad": false
+}

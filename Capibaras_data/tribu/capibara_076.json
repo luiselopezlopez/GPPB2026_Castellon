@@ -1,0 +1,28 @@
+{
+  "id": "ebee211a-854c-4a56-b36c-51c8a32d1ae2",
+  "capibaraid": "ebee211a-854c-4a56-b36c-51c8a32d1ae2",
+  "nombre": "Valeria del Almendral del Prado",
+  "habilidades": [
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 1
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 1
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 1
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 2
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 5
+    }
+  ],
+  "disponibilidad": false
+}

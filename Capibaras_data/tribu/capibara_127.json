@@ -1,0 +1,40 @@
+{
+  "id": "6f57b915-1192-4c92-9c75-18b9a76e4a3c",
+  "capibaraid": "6f57b915-1192-4c92-9c75-18b9a76e4a3c",
+  "nombre": "Carlota del Claro de las Dunas",
+  "habilidades": [
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 1
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 1
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 4
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 3
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 4
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 3
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 3
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": false
+}

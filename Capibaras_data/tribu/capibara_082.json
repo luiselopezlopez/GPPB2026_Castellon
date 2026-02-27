@@ -1,0 +1,24 @@
+{
+  "id": "42a9ce0b-6cd3-4d32-b8a8-12ad39b3d354",
+  "capibaraid": "42a9ce0b-6cd3-4d32-b8a8-12ad39b3d354",
+  "nombre": "Carlota de la Sierra de la Brisa",
+  "habilidades": [
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 5
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": false
+}

@@ -1,0 +1,36 @@
+{
+  "id": "3077e94a-1795-490c-9562-10e5371e9275",
+  "capibaraid": "3077e94a-1795-490c-9562-10e5371e9275",
+  "nombre": "Samuel de la Laguna del Estero",
+  "habilidades": [
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 2
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 4
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 1
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 5
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 3
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 2
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 1
+    }
+  ],
+  "disponibilidad": false
+}

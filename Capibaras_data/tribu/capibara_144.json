@@ -1,0 +1,40 @@
+{
+  "id": "ec4757f2-46e8-454e-8113-43cfa5ce2dad",
+  "capibaraid": "ec4757f2-46e8-454e-8113-43cfa5ce2dad",
+  "nombre": "Roco del Valle del Brezal",
+  "habilidades": [
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 3
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 4
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 1
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 5
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 2
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 1
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 5
+    }
+  ],
+  "disponibilidad": true
+}

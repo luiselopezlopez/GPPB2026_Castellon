@@ -1,0 +1,32 @@
+{
+  "id": "37ac77d4-7114-472b-9c33-8fcc7eb2f5b4",
+  "capibaraid": "37ac77d4-7114-472b-9c33-8fcc7eb2f5b4",
+  "nombre": "Lucas de los Acantilados de la Cumbre",
+  "habilidades": [
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 3
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 1
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 3
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 1
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": false
+}

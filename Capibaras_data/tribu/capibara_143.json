@@ -1,0 +1,24 @@
+{
+  "id": "2bc2cabd-9e69-4fb2-b54b-e4dd0f8c9708",
+  "capibaraid": "2bc2cabd-9e69-4fb2-b54b-e4dd0f8c9708",
+  "nombre": "Raúl de la Alborada de los Viñedos",
+  "habilidades": [
+    {
+      "nombre": "Carpintería",
+      "nivel": 5
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 3
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 4
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 2
+    }
+  ],
+  "disponibilidad": true
+}

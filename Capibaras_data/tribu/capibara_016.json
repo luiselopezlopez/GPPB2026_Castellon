@@ -1,0 +1,24 @@
+{
+  "id": "f59b02a1-44a5-448b-a8b3-08f8c4a628ce",
+  "capibaraid": "f59b02a1-44a5-448b-a8b3-08f8c4a628ce",
+  "nombre": "Iker de la Colina de los Pinos",
+  "habilidades": [
+    {
+      "nombre": "Vigilancia",
+      "nivel": 5
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 3
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 3
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": false
+}
