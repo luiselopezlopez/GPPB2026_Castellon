@@ -1,0 +1,40 @@
+{
+  "id": "711b860b-7368-442a-a18e-7b0de0321356",
+  "capibaraid": "711b860b-7368-442a-a18e-7b0de0321356",
+  "nombre": "Jonás de los Nogales de la Brisa",
+  "habilidades": [
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 5
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 3
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 3
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 3
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 3
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 1
+    }
+  ],
+  "disponibilidad": true
+}

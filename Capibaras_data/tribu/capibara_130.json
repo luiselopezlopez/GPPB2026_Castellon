@@ -1,0 +1,40 @@
+{
+  "id": "4ed676ec-5c88-4b62-97d4-d29e37e2da3c",
+  "capibaraid": "4ed676ec-5c88-4b62-97d4-d29e37e2da3c",
+  "nombre": "Pedro de la Cañada del Encinar",
+  "habilidades": [
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 3
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 5
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 3
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 5
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 1
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 3
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 2
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 3
+    }
+  ],
+  "disponibilidad": true
+}

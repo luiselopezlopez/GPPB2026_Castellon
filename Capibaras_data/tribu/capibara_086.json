@@ -1,0 +1,28 @@
+{
+  "id": "3de0b00e-9b53-4d3d-8079-32fdd33790b1",
+  "capibaraid": "3de0b00e-9b53-4d3d-8079-32fdd33790b1",
+  "nombre": "Martina de la Bahía del Almendral",
+  "habilidades": [
+    {
+      "nombre": "Carpintería",
+      "nivel": 5
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 2
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 4
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 3
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 5
+    }
+  ],
+  "disponibilidad": true
+}

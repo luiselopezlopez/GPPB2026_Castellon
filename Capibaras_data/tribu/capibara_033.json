@@ -1,0 +1,36 @@
+{
+  "id": "f0bdc4b9-4b26-4453-952a-4a3d0c2d18b4",
+  "capibaraid": "f0bdc4b9-4b26-4453-952a-4a3d0c2d18b4",
+  "nombre": "Irene del Sendero de la Laguna",
+  "habilidades": [
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 5
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 3
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 5
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 5
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 5
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 3
+    }
+  ],
+  "disponibilidad": false
+}

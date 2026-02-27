@@ -1,0 +1,40 @@
+{
+  "id": "55cb00ed-554e-4f80-bbf0-2fef1cc1eb93",
+  "capibaraid": "55cb00ed-554e-4f80-bbf0-2fef1cc1eb93",
+  "nombre": "Blanca de la Ladera del Robledal",
+  "habilidades": [
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 5
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 5
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 3
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 1
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 3
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 1
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 2
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 1
+    }
+  ],
+  "disponibilidad": false
+}

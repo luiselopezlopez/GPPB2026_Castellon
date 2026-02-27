@@ -1,0 +1,40 @@
+{
+  "id": "d6f62438-8d93-41ed-ae48-162499e2f9e4",
+  "capibaraid": "d6f62438-8d93-41ed-ae48-162499e2f9e4",
+  "nombre": "Roco del Castañar de las Dunas",
+  "habilidades": [
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 2
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 4
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 1
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 2
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 3
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 2
+    },
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 3
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 5
+    }
+  ],
+  "disponibilidad": true
+}

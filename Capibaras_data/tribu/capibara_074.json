@@ -1,0 +1,40 @@
+{
+  "id": "78e7ac89-ee6d-4085-b200-3cb3176fcbe8",
+  "capibaraid": "78e7ac89-ee6d-4085-b200-3cb3176fcbe8",
+  "nombre": "Adrián del Castañar de la Lluvia",
+  "habilidades": [
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 2
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 5
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 1
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 5
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 3
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 3
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 5
+    }
+  ],
+  "disponibilidad": true
+}

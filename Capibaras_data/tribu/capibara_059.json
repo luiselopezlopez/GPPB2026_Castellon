@@ -1,0 +1,40 @@
+{
+  "id": "428220a4-d68b-49dc-9ee8-ba526f015a46",
+  "capibaraid": "428220a4-d68b-49dc-9ee8-ba526f015a46",
+  "nombre": "Jimena de la Marisma de la Retama",
+  "habilidades": [
+    {
+      "nombre": "Carpintería",
+      "nivel": 4
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 2
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 3
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 1
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 1
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 2
+    }
+  ],
+  "disponibilidad": true
+}

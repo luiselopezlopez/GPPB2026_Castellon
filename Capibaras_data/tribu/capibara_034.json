@@ -1,0 +1,32 @@
+{
+  "id": "e93d9605-04cf-463b-8fe7-ae09dc7d99bf",
+  "capibaraid": "e93d9605-04cf-463b-8fe7-ae09dc7d99bf",
+  "nombre": "Daniela del Castañar del Río",
+  "habilidades": [
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 1
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 4
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 1
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 5
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 3
+    }
+  ],
+  "disponibilidad": false
+}

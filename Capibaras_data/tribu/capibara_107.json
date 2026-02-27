@@ -1,0 +1,28 @@
+{
+  "id": "fe75c7e5-e4ce-4db7-b14f-6fb28ad32635",
+  "capibaraid": "fe75c7e5-e4ce-4db7-b14f-6fb28ad32635",
+  "nombre": "Manuel del Manantial de la Dehesa",
+  "habilidades": [
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 3
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 4
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 2
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 4
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 1
+    }
+  ],
+  "disponibilidad": false
+}

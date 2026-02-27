@@ -1,0 +1,24 @@
+{
+  "id": "c1a94630-300c-4a6d-aa8f-61b03ddbd1c3",
+  "capibaraid": "c1a94630-300c-4a6d-aa8f-61b03ddbd1c3",
+  "nombre": "Javier de los Abedules de la Pradera",
+  "habilidades": [
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 4
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 5
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 2
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 5
+    }
+  ],
+  "disponibilidad": false
+}

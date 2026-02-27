@@ -1,0 +1,28 @@
+{
+  "id": "ad7101bd-779a-4ec0-a747-18b2407649f0",
+  "capibaraid": "ad7101bd-779a-4ec0-a747-18b2407649f0",
+  "nombre": "Raúl del Monte del Ocaso",
+  "habilidades": [
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 5
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 5
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 4
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 2
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 5
+    }
+  ],
+  "disponibilidad": true
+}

@@ -1,0 +1,32 @@
+{
+  "id": "a1778f3f-59ee-4ac7-8a64-5e84b0d77600",
+  "capibaraid": "a1778f3f-59ee-4ac7-8a64-5e84b0d77600",
+  "nombre": "Teo de los Sauces del Alba",
+  "habilidades": [
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 3
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 3
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 4
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 5
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 2
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 5
+    }
+  ],
+  "disponibilidad": true
+}

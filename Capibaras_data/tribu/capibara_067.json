@@ -1,0 +1,40 @@
+{
+  "id": "2b0c9488-4eee-48a4-994c-ecf70f758e4b",
+  "capibaraid": "2b0c9488-4eee-48a4-994c-ecf70f758e4b",
+  "nombre": "Dafne de la Arboleda de los Pinos",
+  "habilidades": [
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 1
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 4
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 4
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 1
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 3
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 3
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 3
+    }
+  ],
+  "disponibilidad": false
+}

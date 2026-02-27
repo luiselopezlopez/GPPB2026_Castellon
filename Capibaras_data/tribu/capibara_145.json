@@ -1,0 +1,32 @@
+{
+  "id": "23473c85-d0fc-4a7e-8a2a-457aa8fe23c1",
+  "capibaraid": "23473c85-d0fc-4a7e-8a2a-457aa8fe23c1",
+  "nombre": "Álvaro de los Viñedos de las Dunas",
+  "habilidades": [
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 2
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 5
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 5
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 3
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 3
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": false
+}

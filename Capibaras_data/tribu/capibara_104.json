@@ -1,0 +1,28 @@
+{
+  "id": "ea65c95b-4094-43e7-a785-fdd85b56232d",
+  "capibaraid": "ea65c95b-4094-43e7-a785-fdd85b56232d",
+  "nombre": "Gonzalo de la Sierra del Arroyo",
+  "habilidades": [
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 4
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 5
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 2
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 5
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 1
+    }
+  ],
+  "disponibilidad": false
+}

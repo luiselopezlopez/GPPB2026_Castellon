@@ -1,0 +1,24 @@
+{
+  "id": "0a0d4c39-0ea3-4add-a737-ae264b111fa0",
+  "capibaraid": "0a0d4c39-0ea3-4add-a737-ae264b111fa0",
+  "nombre": "Cora de la Vereda de la Arboleda",
+  "habilidades": [
+    {
+      "nombre": "Carpintería",
+      "nivel": 4
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 5
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 5
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 2
+    }
+  ],
+  "disponibilidad": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "601141e6-d9a1-48f0-a7cc-fec43fb86131",
+  "capibaraid": "601141e6-d9a1-48f0-a7cc-fec43fb86131",
+  "nombre": "Cleo de la Bahía del Almendral",
+  "habilidades": [
+    {
+      "nombre": "Albañilería",
+      "nivel": 1
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 2
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 2
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 1
+    }
+  ],
+  "disponibilidad": false
+}

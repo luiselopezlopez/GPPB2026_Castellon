@@ -1,0 +1,36 @@
+{
+  "id": "8353c8c5-893d-41d5-a568-3f022b01f554",
+  "capibaraid": "8353c8c5-893d-41d5-a568-3f022b01f554",
+  "nombre": "Gonzalo de los Juncos del Lago Azul",
+  "habilidades": [
+    {
+      "nombre": "Carpintería",
+      "nivel": 3
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 5
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 1
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 5
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 2
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 5
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 2
+    }
+  ],
+  "disponibilidad": false
+}

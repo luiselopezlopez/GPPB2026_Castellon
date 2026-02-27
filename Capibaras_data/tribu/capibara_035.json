@@ -1,0 +1,28 @@
+{
+  "id": "1e288e16-63eb-4800-9dd6-b544d8b19ab2",
+  "capibaraid": "1e288e16-63eb-4800-9dd6-b544d8b19ab2",
+  "nombre": "Milo de la Lluvia de la Pradera",
+  "habilidades": [
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 1
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 2
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 4
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 3
+    }
+  ],
+  "disponibilidad": true
+}

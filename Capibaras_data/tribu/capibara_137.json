@@ -1,0 +1,24 @@
+{
+  "id": "f0b1dfd8-cd5a-4bb6-b710-bceb512f159e",
+  "capibaraid": "f0b1dfd8-cd5a-4bb6-b710-bceb512f159e",
+  "nombre": "Irene de los Viñedos de la Bahía",
+  "habilidades": [
+    {
+      "nombre": "Música y animación",
+      "nivel": 1
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 2
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 3
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 2
+    }
+  ],
+  "disponibilidad": false
+}

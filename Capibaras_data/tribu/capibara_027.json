@@ -1,0 +1,40 @@
+{
+  "id": "e04508d1-9f90-4b01-ad08-2943b05f4d0f",
+  "capibaraid": "e04508d1-9f90-4b01-ad08-2943b05f4d0f",
+  "nombre": "Dante de la Alborada de la Niebla",
+  "habilidades": [
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 2
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 4
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 3
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 3
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 1
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 4
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 3
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 2
+    }
+  ],
+  "disponibilidad": false
+}

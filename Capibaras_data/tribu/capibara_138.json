@@ -1,0 +1,36 @@
+{
+  "id": "cbf07da6-b9f3-4396-af36-76f78e9a9284",
+  "capibaraid": "cbf07da6-b9f3-4396-af36-76f78e9a9284",
+  "nombre": "Julia de la Pradera de la Vega",
+  "habilidades": [
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 1
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 2
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 2
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 4
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 1
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": true
+}

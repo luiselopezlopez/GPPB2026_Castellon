@@ -1,0 +1,40 @@
+{
+  "id": "d86c7822-e57a-4c73-92e1-e2b5870fe6fb",
+  "capibaraid": "d86c7822-e57a-4c73-92e1-e2b5870fe6fb",
+  "nombre": "Olivia de los Acantilados del Prado",
+  "habilidades": [
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 3
+    },
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 5
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 1
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 5
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 1
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 5
+    }
+  ],
+  "disponibilidad": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "2ab2f42c-eb38-4d95-8b96-3862d8747b9f",
+  "capibaraid": "2ab2f42c-eb38-4d95-8b96-3862d8747b9f",
+  "nombre": "Rubén del Prado del Estanque",
+  "habilidades": [
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 4
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 2
+    }
+  ],
+  "disponibilidad": false
+}

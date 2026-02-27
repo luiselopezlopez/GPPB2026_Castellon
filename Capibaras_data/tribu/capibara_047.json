@@ -1,0 +1,24 @@
+{
+  "id": "9dcd7ae5-b1ec-4cd6-96d8-512b8f24bfb6",
+  "capibaraid": "9dcd7ae5-b1ec-4cd6-96d8-512b8f24bfb6",
+  "nombre": "Tadeo de la Isla Verde del Brezal",
+  "habilidades": [
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 3
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 5
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 2
+    }
+  ],
+  "disponibilidad": false
+}

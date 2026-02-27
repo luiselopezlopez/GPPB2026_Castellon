@@ -1,0 +1,28 @@
+{
+  "id": "0086a3b2-1e1f-42ee-b368-72d451594686",
+  "capibaraid": "0086a3b2-1e1f-42ee-b368-72d451594686",
+  "nombre": "Mateo del Alba de la Ribera",
+  "habilidades": [
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 3
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 1
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 2
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 5
+    },
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 5
+    }
+  ],
+  "disponibilidad": false
+}

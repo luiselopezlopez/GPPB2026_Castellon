@@ -1,0 +1,24 @@
+{
+  "id": "5c13824e-9fd5-478c-b9e0-08a9f48212cc",
+  "capibaraid": "5c13824e-9fd5-478c-b9e0-08a9f48212cc",
+  "nombre": "Paula del Sendero de la Retama",
+  "habilidades": [
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 5
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 2
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 4
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 3
+    }
+  ],
+  "disponibilidad": true
+}

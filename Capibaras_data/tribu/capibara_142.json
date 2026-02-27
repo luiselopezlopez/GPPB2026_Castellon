@@ -1,0 +1,32 @@
+{
+  "id": "30e09d6b-f826-4915-8c24-e157d096e378",
+  "capibaraid": "30e09d6b-f826-4915-8c24-e157d096e378",
+  "nombre": "Kira de la Isla Verde de la Umbría",
+  "habilidades": [
+    {
+      "nombre": "Carpintería",
+      "nivel": 4
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 2
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 4
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 2
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 1
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 2
+    }
+  ],
+  "disponibilidad": false
+}

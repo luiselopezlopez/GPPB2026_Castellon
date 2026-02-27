@@ -1,0 +1,24 @@
+{
+  "id": "ade9db5d-42dd-4478-ae8c-669de350d4e0",
+  "capibaraid": "ade9db5d-42dd-4478-ae8c-669de350d4e0",
+  "nombre": "Iker de los Nogales de los Acantilados",
+  "habilidades": [
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 5
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 5
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 1
+    }
+  ],
+  "disponibilidad": false
+}
