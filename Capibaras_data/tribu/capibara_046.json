@@ -1,0 +1,24 @@
+{
+  "id": "9c883198-8afa-49e7-b2a9-3ed61e8965a3",
+  "capibaraid": "9c883198-8afa-49e7-b2a9-3ed61e8965a3",
+  "nombre": "Javier de la Colina de la Umbría",
+  "habilidades": [
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 1
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 5
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 2
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": false
+}

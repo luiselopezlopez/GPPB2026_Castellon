@@ -1,0 +1,32 @@
+{
+  "id": "9343a332-2c15-46fb-8964-802bc1dba0de",
+  "capibaraid": "9343a332-2c15-46fb-8964-802bc1dba0de",
+  "nombre": "Elena del Lago Azul de la Senda",
+  "habilidades": [
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 1
+    },
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 1
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 5
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 5
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": true
+}

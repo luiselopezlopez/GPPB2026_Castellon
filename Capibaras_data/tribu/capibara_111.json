@@ -1,0 +1,36 @@
+{
+  "id": "c2f9bc99-0446-4630-be62-c026ae1beb86",
+  "capibaraid": "c2f9bc99-0446-4630-be62-c026ae1beb86",
+  "nombre": "Nerea de la Senda del Almendral",
+  "habilidades": [
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 3
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 2
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 4
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 1
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 3
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 2
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 3
+    }
+  ],
+  "disponibilidad": true
+}

@@ -1,0 +1,36 @@
+{
+  "id": "449703d1-41d8-4676-88f8-351dc595f1ba",
+  "capibaraid": "449703d1-41d8-4676-88f8-351dc595f1ba",
+  "nombre": "Paula de la Cascada de la Isla Verde",
+  "habilidades": [
+    {
+      "nombre": "Carpintería",
+      "nivel": 2
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 2
+    },
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 5
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 3
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 3
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 1
+    }
+  ],
+  "disponibilidad": true
+}

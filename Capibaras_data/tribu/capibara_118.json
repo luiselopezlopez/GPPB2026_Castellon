@@ -1,0 +1,24 @@
+{
+  "id": "04b9eb1a-94a5-4d0b-9f9a-93c41eb92ba8",
+  "capibaraid": "04b9eb1a-94a5-4d0b-9f9a-93c41eb92ba8",
+  "nombre": "Gael de la Colina de la Senda",
+  "habilidades": [
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 1
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 2
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": true
+}

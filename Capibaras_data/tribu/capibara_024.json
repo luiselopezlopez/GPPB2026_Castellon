@@ -1,0 +1,24 @@
+{
+  "id": "4b1486f9-42df-4ef1-85fe-307ac038c4f4",
+  "capibaraid": "4b1486f9-42df-4ef1-85fe-307ac038c4f4",
+  "nombre": "Simón del Estanque de la Dehesa",
+  "habilidades": [
+    {
+      "nombre": "Vigilancia",
+      "nivel": 5
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 1
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 3
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 1
+    }
+  ],
+  "disponibilidad": true
+}

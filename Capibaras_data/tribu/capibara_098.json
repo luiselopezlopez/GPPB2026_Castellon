@@ -1,0 +1,36 @@
+{
+  "id": "84682ff4-08d4-4c0b-83dc-e93ebca7e54f",
+  "capibaraid": "84682ff4-08d4-4c0b-83dc-e93ebca7e54f",
+  "nombre": "Elena de la Bahía de la Senda",
+  "habilidades": [
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 3
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 4
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 3
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 4
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 1
+    }
+  ],
+  "disponibilidad": true
+}

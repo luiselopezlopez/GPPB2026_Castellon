@@ -1,0 +1,32 @@
+{
+  "id": "ce799f03-0296-4039-bff2-d3904a4b0ade",
+  "capibaraid": "ce799f03-0296-4039-bff2-d3904a4b0ade",
+  "nombre": "Simón de la Laguna de la Cañada",
+  "habilidades": [
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 4
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 1
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 4
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 1
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 4
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 5
+    }
+  ],
+  "disponibilidad": true
+}

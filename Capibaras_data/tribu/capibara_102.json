@@ -1,0 +1,28 @@
+{
+  "id": "e5c9a432-a0c0-47ee-b94c-dd99a2cc14c2",
+  "capibaraid": "e5c9a432-a0c0-47ee-b94c-dd99a2cc14c2",
+  "nombre": "Olivia del Brezal de la Arboleda",
+  "habilidades": [
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 3
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 3
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 3
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 5
+    }
+  ],
+  "disponibilidad": false
+}

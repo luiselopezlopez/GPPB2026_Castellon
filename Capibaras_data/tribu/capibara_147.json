@@ -1,0 +1,24 @@
+{
+  "id": "8fbb7613-e7c9-497a-bb32-fe90f81a44c3",
+  "capibaraid": "8fbb7613-e7c9-497a-bb32-fe90f81a44c3",
+  "nombre": "Adrián de la Umbría de la Retama",
+  "habilidades": [
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 1
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 4
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 3
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": true
+}

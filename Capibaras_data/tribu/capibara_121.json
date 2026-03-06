@@ -1,0 +1,32 @@
+{
+  "id": "597db2d3-e5b6-426d-8e25-1adc35713161",
+  "capibaraid": "597db2d3-e5b6-426d-8e25-1adc35713161",
+  "nombre": "Dafne de la Brisa de los Acantilados",
+  "habilidades": [
+    {
+      "nombre": "Albañilería",
+      "nivel": 4
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 4
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 2
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 2
+    }
+  ],
+  "disponibilidad": true
+}

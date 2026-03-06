@@ -1,0 +1,40 @@
+{
+  "id": "657c4159-cb0d-44f0-a887-b2898513ad88",
+  "capibaraid": "657c4159-cb0d-44f0-a887-b2898513ad88",
+  "nombre": "Hugo del Espliego de los Cedros",
+  "habilidades": [
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 5
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 5
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 4
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 5
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 4
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 5
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 4
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": false
+}

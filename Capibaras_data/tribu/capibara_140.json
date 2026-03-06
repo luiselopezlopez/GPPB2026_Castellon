@@ -1,0 +1,36 @@
+{
+  "id": "1503ac71-ec69-4c66-a138-eb7533b43508",
+  "capibaraid": "1503ac71-ec69-4c66-a138-eb7533b43508",
+  "nombre": "Elena de los Abedules del Río",
+  "habilidades": [
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 4
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 5
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 1
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 2
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 3
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 2
+    }
+  ],
+  "disponibilidad": true
+}

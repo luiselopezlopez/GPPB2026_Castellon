@@ -1,0 +1,28 @@
+{
+  "id": "2da7b5c2-32ff-4929-ac0a-21030ad2893c",
+  "capibaraid": "2da7b5c2-32ff-4929-ac0a-21030ad2893c",
+  "nombre": "Mónica del Alba de la Isla Verde",
+  "habilidades": [
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 2
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 2
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 3
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 1
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 5
+    }
+  ],
+  "disponibilidad": false
+}

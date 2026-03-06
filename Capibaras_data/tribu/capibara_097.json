@@ -1,0 +1,24 @@
+{
+  "id": "1a3ae0ea-80f4-46c6-a8f7-582a47719e0e",
+  "capibaraid": "1a3ae0ea-80f4-46c6-a8f7-582a47719e0e",
+  "nombre": "Pedro de la Ribera de la Costa",
+  "habilidades": [
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 4
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 3
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 4
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 2
+    }
+  ],
+  "disponibilidad": true
+}

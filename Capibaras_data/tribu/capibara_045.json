@@ -1,0 +1,28 @@
+{
+  "id": "513f75fc-0929-42b7-9d16-65f886d813cd",
+  "capibaraid": "513f75fc-0929-42b7-9d16-65f886d813cd",
+  "nombre": "Teo del Encinar de los Sauces",
+  "habilidades": [
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 1
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 5
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 3
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 3
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 2
+    }
+  ],
+  "disponibilidad": false
+}

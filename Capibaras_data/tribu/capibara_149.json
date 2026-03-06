@@ -1,0 +1,32 @@
+{
+  "id": "d4470fd7-d896-4327-80d5-56296c70faf7",
+  "capibaraid": "d4470fd7-d896-4327-80d5-56296c70faf7",
+  "nombre": "Pablo de la Costa del Matorral",
+  "habilidades": [
+    {
+      "nombre": "Vigilancia",
+      "nivel": 4
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 5
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 5
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 2
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 5
+    },
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 1
+    }
+  ],
+  "disponibilidad": true
+}

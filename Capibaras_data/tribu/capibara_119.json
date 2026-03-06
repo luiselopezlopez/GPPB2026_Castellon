@@ -1,0 +1,32 @@
+{
+  "id": "d449fa45-c514-436a-86c0-4d27a03a87d1",
+  "capibaraid": "d449fa45-c514-436a-86c0-4d27a03a87d1",
+  "nombre": "Iker del Arroyo de la Quebrada",
+  "habilidades": [
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 2
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 1
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 2
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 2
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 1
+    }
+  ],
+  "disponibilidad": true
+}

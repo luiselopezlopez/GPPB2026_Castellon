@@ -1,0 +1,40 @@
+{
+  "id": "8f7e12ff-7e3e-4ca4-bc14-3040a9dc56bf",
+  "capibaraid": "8f7e12ff-7e3e-4ca4-bc14-3040a9dc56bf",
+  "nombre": "Axel de la Marisma de la Cumbre",
+  "habilidades": [
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 3
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 5
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 2
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 5
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 3
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 3
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": true
+}

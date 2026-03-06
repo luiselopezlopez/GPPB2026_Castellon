@@ -1,0 +1,40 @@
+{
+  "id": "b3ba677c-9c84-4af3-b1f6-76d9a0140ae5",
+  "capibaraid": "b3ba677c-9c84-4af3-b1f6-76d9a0140ae5",
+  "nombre": "Nico del Arroyo de la Ribera",
+  "habilidades": [
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 5
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 2
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 1
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 2
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 2
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 1
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 1
+    }
+  ],
+  "disponibilidad": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "b175a22e-eee6-4a21-9a93-dc35bdc48c9a",
+  "capibaraid": "b175a22e-eee6-4a21-9a93-dc35bdc48c9a",
+  "nombre": "Simón del Valle de los Viñedos",
+  "habilidades": [
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 2
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 4
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 2
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 2
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 3
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 3
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 2
+    },
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 3
+    }
+  ],
+  "disponibilidad": false
+}

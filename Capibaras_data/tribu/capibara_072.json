@@ -1,0 +1,36 @@
+{
+  "id": "ca14f0cf-e402-4a68-aec2-4ef6ff505857",
+  "capibaraid": "ca14f0cf-e402-4a68-aec2-4ef6ff505857",
+  "nombre": "Daniela de los Pinos del Horizonte",
+  "habilidades": [
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 5
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 2
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 2
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 2
+    },
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 5
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 5
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": true
+}

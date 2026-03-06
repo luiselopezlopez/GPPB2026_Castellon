@@ -1,0 +1,28 @@
+{
+  "id": "3d760a82-7d08-452f-a240-db9235cafabb",
+  "capibaraid": "3d760a82-7d08-452f-a240-db9235cafabb",
+  "nombre": "Milo del Matorral del Robledal",
+  "habilidades": [
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 4
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 3
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 2
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 4
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 1
+    }
+  ],
+  "disponibilidad": true
+}

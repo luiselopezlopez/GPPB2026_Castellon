@@ -1,0 +1,32 @@
+{
+  "id": "b2981829-a09d-46c9-8a2c-6b3cc8aea85c",
+  "capibaraid": "b2981829-a09d-46c9-8a2c-6b3cc8aea85c",
+  "nombre": "Lía de los Abedules del Trigal",
+  "habilidades": [
+    {
+      "nombre": "Carpintería",
+      "nivel": 5
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 1
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 4
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 1
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "835b4226-0156-4530-8103-6cba8f9c3434",
+  "capibaraid": "835b4226-0156-4530-8103-6cba8f9c3434",
+  "nombre": "Violeta de la Ladera del Estanque",
+  "habilidades": [
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 1
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 5
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 4
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 2
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 2
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 4
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 5
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": false
+}

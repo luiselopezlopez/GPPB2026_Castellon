@@ -1,0 +1,28 @@
+{
+  "id": "c561091f-f5e9-4c3b-9699-7cb16ef67c35",
+  "capibaraid": "c561091f-f5e9-4c3b-9699-7cb16ef67c35",
+  "nombre": "Jimena de los Juncos de los Cedros",
+  "habilidades": [
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 3
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 2
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 2
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 5
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 5
+    }
+  ],
+  "disponibilidad": false
+}

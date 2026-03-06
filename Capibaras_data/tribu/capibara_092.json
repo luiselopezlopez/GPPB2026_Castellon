@@ -1,0 +1,28 @@
+{
+  "id": "2003a19b-ebdc-4695-939e-1c1de0ef58ce",
+  "capibaraid": "2003a19b-ebdc-4695-939e-1c1de0ef58ce",
+  "nombre": "Marco del Espliego de la Quebrada",
+  "habilidades": [
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 2
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 1
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 3
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 2
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": true
+}

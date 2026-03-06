@@ -1,0 +1,40 @@
+{
+  "id": "f3e0e5f1-021e-4525-89bd-39aaabdcde64",
+  "capibaraid": "f3e0e5f1-021e-4525-89bd-39aaabdcde64",
+  "nombre": "Axel del Prado de los Acantilados",
+  "habilidades": [
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 3
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 3
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 4
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 5
+    },
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 3
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "913b6b80-14ff-42cb-ab47-cadb3e945e11",
+  "capibaraid": "913b6b80-14ff-42cb-ab47-cadb3e945e11",
+  "nombre": "Laia de los Abedules de la Cumbre",
+  "habilidades": [
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 2
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 5
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 5
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 3
+    }
+  ],
+  "disponibilidad": true
+}

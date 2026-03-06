@@ -1,0 +1,32 @@
+{
+  "id": "ac4f9856-ca8e-4649-8390-c4083257c393",
+  "capibaraid": "ac4f9856-ca8e-4649-8390-c4083257c393",
+  "nombre": "Alan del Alba del Bosque",
+  "habilidades": [
+    {
+      "nombre": "Vigilancia",
+      "nivel": 2
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 5
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 5
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 1
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 4
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 5
+    }
+  ],
+  "disponibilidad": false
+}

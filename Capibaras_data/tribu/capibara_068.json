@@ -1,0 +1,40 @@
+{
+  "id": "b8e6842a-bba3-44fb-87cc-1d5793094d90",
+  "capibaraid": "b8e6842a-bba3-44fb-87cc-1d5793094d90",
+  "nombre": "Iván de los Viñedos de la Alborada",
+  "habilidades": [
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 4
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 1
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 5
+    },
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 3
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 5
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 5
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 2
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 1
+    }
+  ],
+  "disponibilidad": false
+}

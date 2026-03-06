@@ -1,0 +1,28 @@
+{
+  "id": "e5f17512-6398-4f85-9e0d-0e5f2fd5665a",
+  "capibaraid": "e5f17512-6398-4f85-9e0d-0e5f2fd5665a",
+  "nombre": "Dante de los Abedules de la Retama",
+  "habilidades": [
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 4
+    },
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 2
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 2
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 2
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 1
+    }
+  ],
+  "disponibilidad": false
+}

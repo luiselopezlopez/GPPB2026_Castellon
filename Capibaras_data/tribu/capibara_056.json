@@ -1,0 +1,32 @@
+{
+  "id": "6b710f6c-cbc2-4110-9215-1f5f97937773",
+  "capibaraid": "6b710f6c-cbc2-4110-9215-1f5f97937773",
+  "nombre": "Nala del Valle de la Cañada",
+  "habilidades": [
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 2
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 5
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 4
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 5
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 1
+    }
+  ],
+  "disponibilidad": true
+}

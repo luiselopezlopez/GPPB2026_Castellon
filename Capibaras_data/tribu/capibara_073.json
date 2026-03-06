@@ -1,0 +1,32 @@
+{
+  "id": "8baffde2-493b-4d36-81aa-b09af6c94a87",
+  "capibaraid": "8baffde2-493b-4d36-81aa-b09af6c94a87",
+  "nombre": "Thiago de la Cañada del Río",
+  "habilidades": [
+    {
+      "nombre": "Carpintería",
+      "nivel": 2
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 3
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 2
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 5
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 2
+    }
+  ],
+  "disponibilidad": false
+}

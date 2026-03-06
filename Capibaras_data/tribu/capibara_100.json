@@ -1,0 +1,24 @@
+{
+  "id": "c0502ea0-02d4-4d27-baf5-c69745d91a13",
+  "capibaraid": "c0502ea0-02d4-4d27-baf5-c69745d91a13",
+  "nombre": "Rubén de la Cumbre del Ocaso",
+  "habilidades": [
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 4
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 4
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": false
+}

@@ -1,0 +1,36 @@
+{
+  "id": "c81debc8-5373-4445-9889-ab28e0007d52",
+  "capibaraid": "c81debc8-5373-4445-9889-ab28e0007d52",
+  "nombre": "Dafne del Estero de la Cascada",
+  "habilidades": [
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 3
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 2
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 3
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 3
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 1
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 3
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 5
+    }
+  ],
+  "disponibilidad": false
+}

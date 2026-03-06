@@ -1,0 +1,36 @@
+{
+  "id": "2f534277-5100-4891-b4f5-c12ff421068e",
+  "capibaraid": "2f534277-5100-4891-b4f5-c12ff421068e",
+  "nombre": "Álvaro de la Dehesa de la Marisma",
+  "habilidades": [
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 3
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 5
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 3
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 1
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 5
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": true
+}

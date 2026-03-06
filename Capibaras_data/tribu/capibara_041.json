@@ -1,0 +1,24 @@
+{
+  "id": "4893dc75-e613-4424-aec9-ebff0fb3dd67",
+  "capibaraid": "4893dc75-e613-4424-aec9-ebff0fb3dd67",
+  "nombre": "Cora del Monte de la Arboleda",
+  "habilidades": [
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 3
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 2
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 3
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 5
+    }
+  ],
+  "disponibilidad": false
+}

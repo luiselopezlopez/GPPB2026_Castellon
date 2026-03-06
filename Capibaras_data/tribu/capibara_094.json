@@ -1,0 +1,24 @@
+{
+  "id": "7c7342d5-5927-4d82-aa12-fa9f84f0bb86",
+  "capibaraid": "7c7342d5-5927-4d82-aa12-fa9f84f0bb86",
+  "nombre": "Ariadna de la Bahía del Encinar",
+  "habilidades": [
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 2
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 3
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 5
+    }
+  ],
+  "disponibilidad": true
+}

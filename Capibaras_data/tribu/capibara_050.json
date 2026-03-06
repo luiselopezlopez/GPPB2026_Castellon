@@ -1,0 +1,32 @@
+{
+  "id": "1216af9d-bc76-410f-a713-179bd919cb62",
+  "capibaraid": "1216af9d-bc76-410f-a713-179bd919cb62",
+  "nombre": "Emma del Estero del Valle",
+  "habilidades": [
+    {
+      "nombre": "Música y animación",
+      "nivel": 2
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 4
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 2
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": false
+}

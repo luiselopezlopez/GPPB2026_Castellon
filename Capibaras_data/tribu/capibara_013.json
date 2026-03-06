@@ -1,0 +1,40 @@
+{
+  "id": "abf6936d-c256-4f38-8802-c725578267c4",
+  "capibaraid": "abf6936d-c256-4f38-8802-c725578267c4",
+  "nombre": "Ariadna del Arroyo del Trigal",
+  "habilidades": [
+    {
+      "nombre": "Música y animación",
+      "nivel": 1
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 5
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 4
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 3
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 2
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 2
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 3
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 5
+    }
+  ],
+  "disponibilidad": false
+}

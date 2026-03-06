@@ -1,0 +1,32 @@
+{
+  "id": "907d5f3c-72ed-4e52-8bb5-b205baa4d8a9",
+  "capibaraid": "907d5f3c-72ed-4e52-8bb5-b205baa4d8a9",
+  "nombre": "Dafne del Lago Azul de la Vega",
+  "habilidades": [
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 4
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 2
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 4
+    },
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 3
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 2
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 5
+    }
+  ],
+  "disponibilidad": true
+}

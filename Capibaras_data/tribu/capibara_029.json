@@ -1,0 +1,24 @@
+{
+  "id": "7400f80a-6621-4291-bf61-ba6d693b14c4",
+  "capibaraid": "7400f80a-6621-4291-bf61-ba6d693b14c4",
+  "nombre": "Tadeo de la Colina de los Viñedos",
+  "habilidades": [
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 3
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 5
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 5
+    }
+  ],
+  "disponibilidad": true
+}

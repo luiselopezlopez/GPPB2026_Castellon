@@ -1,0 +1,36 @@
+{
+  "id": "4294428b-ef55-4d69-af60-408dd5855c6b",
+  "capibaraid": "4294428b-ef55-4d69-af60-408dd5855c6b",
+  "nombre": "Alan de la Ribera del Brezal",
+  "habilidades": [
+    {
+      "nombre": "Albañilería",
+      "nivel": 5
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 3
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 1
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 2
+    },
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 5
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 1
+    }
+  ],
+  "disponibilidad": false
+}

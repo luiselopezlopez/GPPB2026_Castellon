@@ -1,0 +1,28 @@
+{
+  "id": "3ff4a568-6ad0-4103-99ed-93bc0b347e41",
+  "capibaraid": "3ff4a568-6ad0-4103-99ed-93bc0b347e41",
+  "nombre": "Vera de la Bahía de la Ribera",
+  "habilidades": [
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 5
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 5
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 1
+    },
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 1
+    }
+  ],
+  "disponibilidad": true
+}

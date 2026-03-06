@@ -1,0 +1,24 @@
+{
+  "id": "6fe50694-7dc9-41b1-80b8-2512ec984cf4",
+  "capibaraid": "6fe50694-7dc9-41b1-80b8-2512ec984cf4",
+  "nombre": "Martina de la Laguna de la Sierra",
+  "habilidades": [
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 4
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 5
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": true
+}

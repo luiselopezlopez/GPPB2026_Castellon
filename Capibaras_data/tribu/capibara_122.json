@@ -1,0 +1,24 @@
+{
+  "id": "6e8b018b-9c81-4416-a070-fcf5158f9a4b",
+  "capibaraid": "6e8b018b-9c81-4416-a070-fcf5158f9a4b",
+  "nombre": "Sara del Manantial del Matorral",
+  "habilidades": [
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 4
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 2
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 2
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 2
+    }
+  ],
+  "disponibilidad": true
+}

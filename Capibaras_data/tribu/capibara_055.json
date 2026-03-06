@@ -1,0 +1,36 @@
+{
+  "id": "6f5db4c4-da4c-4f9a-be42-bd1935e223b8",
+  "capibaraid": "6f5db4c4-da4c-4f9a-be42-bd1935e223b8",
+  "nombre": "Álvaro del Castañar de los Acantilados",
+  "habilidades": [
+    {
+      "nombre": "Vigilancia",
+      "nivel": 2
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 3
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 2
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 2
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": true
+}

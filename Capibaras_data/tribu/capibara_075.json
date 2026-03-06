@@ -1,0 +1,28 @@
+{
+  "id": "af5fc72f-eb96-4833-81fa-27198ccf1822",
+  "capibaraid": "af5fc72f-eb96-4833-81fa-27198ccf1822",
+  "nombre": "Álvaro de la Cumbre de la Colina",
+  "habilidades": [
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 3
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 3
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 1
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": false
+}

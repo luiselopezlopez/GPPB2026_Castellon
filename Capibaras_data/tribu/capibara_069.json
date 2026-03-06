@@ -1,0 +1,28 @@
+{
+  "id": "a978e3f6-0141-405f-a9b8-cb9c8429ac60",
+  "capibaraid": "a978e3f6-0141-405f-a9b8-cb9c8429ac60",
+  "nombre": "Teo del Claro de las Dunas",
+  "habilidades": [
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 2
+    },
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 1
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 4
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 2
+    }
+  ],
+  "disponibilidad": false
+}

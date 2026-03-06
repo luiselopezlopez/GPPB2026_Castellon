@@ -1,0 +1,40 @@
+{
+  "id": "aff70f83-cf0d-4a17-b769-882aa2fd17a5",
+  "capibaraid": "aff70f83-cf0d-4a17-b769-882aa2fd17a5",
+  "nombre": "Bruno de la Senda de la Dehesa",
+  "habilidades": [
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 3
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 5
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 5
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 3
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 1
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 3
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 3
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 2
+    }
+  ],
+  "disponibilidad": false
+}

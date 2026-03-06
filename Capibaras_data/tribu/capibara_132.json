@@ -1,0 +1,24 @@
+{
+  "id": "75fe8803-3339-4f69-8cc5-d3d529ab4eca",
+  "capibaraid": "75fe8803-3339-4f69-8cc5-d3d529ab4eca",
+  "nombre": "Fabián del Trigal de los Olmos",
+  "habilidades": [
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 5
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 5
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 4
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": false
+}

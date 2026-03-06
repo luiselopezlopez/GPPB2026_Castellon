@@ -1,0 +1,24 @@
+{
+  "id": "57b8850a-bcbe-4f6c-93f4-4b914c530efd",
+  "capibaraid": "57b8850a-bcbe-4f6c-93f4-4b914c530efd",
+  "nombre": "Maya del Estanque de la Retama",
+  "habilidades": [
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 3
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 5
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 1
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 2
+    }
+  ],
+  "disponibilidad": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ee3f74a6-cca7-4d8b-933e-87c95cd69af0",
+  "capibaraid": "ee3f74a6-cca7-4d8b-933e-87c95cd69af0",
+  "nombre": "Leo de los Olmos de los Abedules",
+  "habilidades": [
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 1
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 3
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 5
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 3
+    }
+  ],
+  "disponibilidad": true
+}

@@ -1,0 +1,40 @@
+{
+  "id": "d76bae64-176b-461e-9fdf-94e5fb9b6a74",
+  "capibaraid": "d76bae64-176b-461e-9fdf-94e5fb9b6a74",
+  "nombre": "Cora de la Brisa del Ocaso",
+  "habilidades": [
+    {
+      "nombre": "Albañilería",
+      "nivel": 2
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 3
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 4
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 2
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 3
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 3
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 2
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 4
+    }
+  ],
+  "disponibilidad": true
+}

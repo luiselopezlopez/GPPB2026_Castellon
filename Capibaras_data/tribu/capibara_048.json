@@ -1,0 +1,24 @@
+{
+  "id": "7df994c0-3fae-4182-8969-c9e6ce18cce9",
+  "capibaraid": "7df994c0-3fae-4182-8969-c9e6ce18cce9",
+  "nombre": "Leo del Manantial de la Marisma",
+  "habilidades": [
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 5
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 3
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 2
+    }
+  ],
+  "disponibilidad": true
+}

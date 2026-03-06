@@ -1,0 +1,32 @@
+{
+  "id": "03286fe1-e9c3-46fa-acf0-9158e7aacabd",
+  "capibaraid": "03286fe1-e9c3-46fa-acf0-9158e7aacabd",
+  "nombre": "Rubén del Peñasco de la Isla Verde",
+  "habilidades": [
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 1
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 2
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 5
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 4
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 5
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 3
+    }
+  ],
+  "disponibilidad": true
+}

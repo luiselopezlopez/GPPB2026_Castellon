@@ -1,0 +1,32 @@
+{
+  "id": "ac18fa3a-9e57-4683-8af5-5a3ed02675be",
+  "capibaraid": "ac18fa3a-9e57-4683-8af5-5a3ed02675be",
+  "nombre": "Andrés de la Brisa de la Ladera",
+  "habilidades": [
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 4
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 3
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 5
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 5
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 3
+    },
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 1
+    }
+  ],
+  "disponibilidad": false
+}

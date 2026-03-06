@@ -1,0 +1,36 @@
+{
+  "id": "ba6758ee-d2ec-4e75-ae54-64982ee4c997",
+  "capibaraid": "ba6758ee-d2ec-4e75-ae54-64982ee4c997",
+  "nombre": "Rubén de la Brisa de los Cedros",
+  "habilidades": [
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 4
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 3
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 5
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 4
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 5
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 1
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 1
+    }
+  ],
+  "disponibilidad": false
+}

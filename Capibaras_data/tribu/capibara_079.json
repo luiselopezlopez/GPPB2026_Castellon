@@ -1,0 +1,40 @@
+{
+  "id": "15b1d8a3-c0e7-45bd-b27a-6da76f5ca647",
+  "capibaraid": "15b1d8a3-c0e7-45bd-b27a-6da76f5ca647",
+  "nombre": "Nico del Hayedo de la Pradera",
+  "habilidades": [
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 5
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 3
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 5
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 3
+    },
+    {
+      "nombre": "Albañilería",
+      "nivel": 2
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 2
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 3
+    }
+  ],
+  "disponibilidad": true
+}

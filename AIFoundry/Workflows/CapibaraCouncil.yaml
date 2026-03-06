@@ -1,0 +1,85 @@
+kind: workflow
+trigger:
+  kind: OnConversationStart
+  id: trigger_wf
+  actions:
+    - kind: InvokeAzureAgent
+      id: node-1771618562421
+      agent:
+        name: CapibaraSecretario
+      conversationId: =System.ConversationId
+      input:
+        messages: ""
+        externalLoop:
+          when: |-
+            =IsBlank(Find("[INTENDENCIA]",Last(Local.secretarioMessage).Text))
+            And
+            IsBlank(Find("[SEGURIDAD]",Last(Local.secretarioMessage).Text))
+            And
+            IsBlank(Find("[INFRASTRUCTURAS]",Last(Local.secretarioMessage).Text))
+            And
+            IsBlank(Find("[FESTEJOS]",Last(Local.secretarioMessage).Text))
+      output:
+        autoSend: true
+        messages: Local.secretarioMessage
+    - kind: ConditionGroup
+      conditions:
+        - condition: =!IsBlank(Find("[INTENDENCIA]", Upper(Last(Local.secretarioMessage).Text)))
+          actions:
+            - kind: InvokeAzureAgent
+              id: node-1771618576160
+              agent:
+                name: Intendencia
+              conversationId: =System.ConversationId
+              input:
+                messages: ""
+              output:
+                autoSend: true
+          id: if-node-1771618569134-0
+        - condition: =!IsBlank(Find("[SEGURIDAD]", Upper(Last(Local.secretarioMessage).Text)))
+          actions:
+            - kind: InvokeAzureAgent
+              id: node-1771618583585
+              agent:
+                name: Seguridad
+              conversationId: =System.ConversationId
+              input:
+                messages: ""
+              output:
+                autoSend: true
+          id: if-node-1771618569134-awsow97c
+        - condition: =!IsBlank(Find("[FESTEJOS]", Upper(Last(Local.secretarioMessage).Text)))
+          actions:
+            - kind: InvokeAzureAgent
+              id: node-1771624790347
+              agent:
+                name: Festejos
+              conversationId: =System.ConversationId
+              input:
+                messages: ""
+              output:
+                autoSend: true
+          id: if-node-1771618569134-jdgndgee
+        - condition: =!IsBlank(Find("[INFRASTRUCTURAS]", Upper(Last(Local.secretarioMessage).Text)))
+          actions:
+            - kind: InvokeAzureAgent
+              id: node-1771624823452
+              agent:
+                name: Infraestructuras
+              conversationId: =System.ConversationId
+              input:
+                messages: ""
+              output:
+                autoSend: true
+          id: if-node-1771618569134-mce7jz7i
+      id: node-1771618569134
+      elseActions: []
+    - kind: EndConversation
+      id: node-1771618590980
+id: ""
+name: Capibaras
+description: ""
+
+# Sticky Notes
+# STICKY_NOTE: {"id":"sticky_1771624567747_30z5w51bq","text":"[INTENDENCIA]\n[SEGURIDAD]\n[INFRASTRUCTURAS]\n[FESTEJOS]","width":358,"height":148,"x":279,"y":157}
+# STICKY_NOTE: {"id":"sticky_1771625575317_vxtmaq3hr","text":"IsBlank(Find(\"[INTENDENCIA]\",Last(Local.secretarioMessage).Text))\nAnd\nIsBlank(Find(\"[SEGURIDAD]\",Last(Local.secretarioMessage).Text))\nAnd\nIsBlank(Find(\"[INFRASTRUCTURAS]\",Last(Local.secretarioMessage).Text))\nAnd\nIsBlank(Find(\"[FESTEJOS]\",Last(Local.secretarioMessage).Text))","width":371,"height":238,"x":271.3663865546219,"y":477.1747899159664}

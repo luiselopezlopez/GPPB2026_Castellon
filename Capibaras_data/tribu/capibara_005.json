@@ -1,0 +1,40 @@
+{
+  "id": "1dd392d8-95a0-415e-83d8-e76de4e0bdf4",
+  "capibaraid": "1dd392d8-95a0-415e-83d8-e76de4e0bdf4",
+  "nombre": "Malena del Valle del Ocaso",
+  "habilidades": [
+    {
+      "nombre": "Albañilería",
+      "nivel": 3
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 1
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 2
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 4
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 3
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 3
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 2
+    }
+  ],
+  "disponibilidad": false
+}

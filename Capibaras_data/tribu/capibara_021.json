@@ -1,0 +1,32 @@
+{
+  "id": "857f4cc8-005d-4959-bf8f-3dac9d345901",
+  "capibaraid": "857f4cc8-005d-4959-bf8f-3dac9d345901",
+  "nombre": "Teo de los Sauces de la Dehesa",
+  "habilidades": [
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 3
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 5
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 5
+    },
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 5
+    },
+    {
+      "nombre": "Cocina al fuego",
+      "nivel": 3
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 3
+    }
+  ],
+  "disponibilidad": true
+}

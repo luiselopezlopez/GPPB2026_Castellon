@@ -1,0 +1,32 @@
+{
+  "id": "62aeaa62-99da-494f-ba55-083e7644c60e",
+  "capibaraid": "62aeaa62-99da-494f-ba55-083e7644c60e",
+  "nombre": "Lía de los Viñedos de los Sauces",
+  "habilidades": [
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 1
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 4
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 3
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 5
+    },
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 5
+    }
+  ],
+  "disponibilidad": true
+}

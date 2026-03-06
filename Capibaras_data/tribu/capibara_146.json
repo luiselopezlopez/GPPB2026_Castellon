@@ -1,0 +1,28 @@
+{
+  "id": "fdb04d36-0680-4a5f-bf64-9410936b2272",
+  "capibaraid": "fdb04d36-0680-4a5f-bf64-9410936b2272",
+  "nombre": "Jimena del Brezal de la Isla Verde",
+  "habilidades": [
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 5
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 2
+    },
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 1
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 5
+    },
+    {
+      "nombre": "Carpintería",
+      "nivel": 5
+    }
+  ],
+  "disponibilidad": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "561707ca-14b5-423d-a279-b86e7392b611",
+  "capibaraid": "561707ca-14b5-423d-a279-b86e7392b611",
+  "nombre": "Leo de los Abedules de la Marisma",
+  "habilidades": [
+    {
+      "nombre": "Evaluación de recursos naturales",
+      "nivel": 3
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 5
+    },
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 1
+    },
+    {
+      "nombre": "Vigilancia",
+      "nivel": 1
+    },
+    {
+      "nombre": "Preparación de recetas",
+      "nivel": 1
+    },
+    {
+      "nombre": "Conservación de alimentos",
+      "nivel": 3
+    },
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 2
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 3
+    }
+  ],
+  "disponibilidad": true
+}

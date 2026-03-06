@@ -1,0 +1,36 @@
+{
+  "id": "b77a4c7d-a01b-4b9a-be5d-5bd966e19c10",
+  "capibaraid": "b77a4c7d-a01b-4b9a-be5d-5bd966e19c10",
+  "nombre": "Martina de los Sauces del Estero",
+  "habilidades": [
+    {
+      "nombre": "Rastreo y exploración",
+      "nivel": 4
+    },
+    {
+      "nombre": "Música y animación",
+      "nivel": 4
+    },
+    {
+      "nombre": "Gestión de recursos",
+      "nivel": 3
+    },
+    {
+      "nombre": "Decoración y ambientación",
+      "nivel": 3
+    },
+    {
+      "nombre": "Ingeniería de estructuras",
+      "nivel": 5
+    },
+    {
+      "nombre": "Recolección de alimentos",
+      "nivel": 4
+    },
+    {
+      "nombre": "Organización de eventos",
+      "nivel": 2
+    }
+  ],
+  "disponibilidad": false
+}
