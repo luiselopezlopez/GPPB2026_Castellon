@@ -7,9 +7,11 @@ from azure.ai.projects import AIProjectClient
 from azure.ai.projects.models import ResponseStreamEventType
 
 WORKFLOW = {
-    "name": "Capibaras",
-    "version": "10",
+    "name": "ConcilioCapibara",
 }
+
+AGENT_NAME_ENV = "AZURE_AGENT_NAME"
+AGENT_VERSION_ENV = "AZURE_AGENT_VERSION"
 
 SYSTEM_MESSAGE = (
     "Responde en formato Markdown claro y legible. Usa títulos, listas y "
@@ -43,10 +45,30 @@ def _build_user_content(user_prompt: str, remitente: Optional[str] = None) -> st
     return f"Remitente: {remitente}. Petición: {user_prompt}"
 
 
+def _build_agent_reference() -> dict:
+    # Keep local .env support even if this function is called independently.
+    load_dotenv()
+
+    agent_name = (os.getenv(AGENT_NAME_ENV) or WORKFLOW["name"]).strip()
+    if not agent_name:
+        raise ValueError(
+            f"Missing agent name. Set {AGENT_NAME_ENV} or WORKFLOW['name']."
+        )
+
+    agent_reference = {"name": agent_name, "type": "agent_reference"}
+
+    # Version is optional. If omitted, the service can resolve the default/current one.
+    agent_version = (os.getenv(AGENT_VERSION_ENV) or "").strip()
+    if agent_version:
+        agent_reference["version"] = agent_version
+
+    return agent_reference
+
+
 def iter_response_text(openai_client, conversation_id: str, user_prompt: str, remitente: Optional[str] = None) -> Iterator[str]:
     stream = openai_client.responses.create(
         conversation=conversation_id,
-        extra_body={"agent": {"name": WORKFLOW["name"], "type": "agent_reference"}},
+        extra_body={"agent": _build_agent_reference()},
         input=[
             {
                 "role": "system",

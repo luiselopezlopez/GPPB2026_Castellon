@@ -60,8 +60,7 @@ trigger:
               output:
                 autoSend: true
           id: if-node-1771618569134-jdgndgee
-        - condition: =!IsBlank(Find("[INFRASTRUCTURAS]", Upper(Last(Local.secretarioMessage).Text)))
-          actions:
+        - condition: C
             - kind: InvokeAzureAgent
               id: node-1771624823452
               agent:
